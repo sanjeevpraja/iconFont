@@ -548,148 +548,148 @@
 <head>
 	<title>fontcustom glyphs preview</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
-	<style>
-		/* Page Styles */
+  <style>
+    /* Page Styles */
 
-		* {
-			-moz-box-sizing: border-box;
-			-webkit-box-sizing: border-box;
-			box-sizing: border-box;
-			margin: 0;
-			padding: 0;
-		}
-
-		body {
-			background: #fff;
-			color: #444;
-			font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-		}
-
-		a,
-		a:visited {
-			color: #888;
-			text-decoration: underline;
-		}
-		a:hover,
-		a:focus { color: #000; }
-
-		header {
-			border-bottom: 1px solid #ddd;
-			overflow: hidden;
-			padding: 20px 0;
-      text-align: center;
-		}
-
-		header h1 {
-			color: #333;
-			font-size: 36px;
-			font-weight: bold;
-			text-transform: uppercase;
-		}
-
-		header a {
-			float: right;
-			font-size: 14px;
-		}
-
-		.container {
-			margin: 0 auto;
-			max-width: 1200px;
-			min-width: 960px;
-			padding: 0 40px;
-			width: 90%;
-		}
-
-		.glyph {
-			border-bottom: 1px dotted #ccc;
-			padding: 10px 0 20px;
-			margin-bottom: 20px;
-			float: left;
-			width: 200px;
-			text-align: center;
-		}
-
-		.preview-glyphs { vertical-align: bottom; }
-
-		.preview-scale {
-			color: #888;
-			font-size: 12px;
-			margin-top: 5px;
-		}
-
-		.step {
-			display: inline-block;
-			line-height: 1;
-			position: relative;
-			width: 10%;
-		}
-
-		.step .letters,
-		.step i {
-			-webkit-transition: opacity .3s;
-			-moz-transition: opacity .3s;
-			-ms-transition: opacity .3s;
-			-o-transition: opacity .3s;
-			transition: opacity .3s;
-		}
-		.step:hover .letters { opacity: 1; }
-		.step:hover i { opacity: .3; }
-
-		.letters {
-			opacity: .3;
-			position: absolute;
-		}
-		.characters-off .letters { display: none; }
-		.characters-off .step:hover i { opacity: 1; }
-
-		.size { font-size: 42px; }
-		.usage { margin-top: 10px; }
-		.usage input {
-			font-family: monospace;
-			margin-right: 3px;
-			padding: 2px 5px;
-			text-align: center;
-      font-size: 11px;
-      width: 100%;
-		}
-
-
-		.usage .class { width: 150px; }
-
-		footer {
-			color: #888;
-			font-size: 12px;
-			padding: 20px 0;
-		}
-
-    .search-div{
-      margin-bottom: 50px;
-      padding-top: 30px;
-    }
-    .wrapper{
-      width: 1000px;
-      margin: 0 auto;
-      background: rgba(0,0,0,0.2);
-    }
-
-    input.form-control{
-      border-radius: 0px;
-    }
-
-
-  </style>
-
-
-  <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-
-  <script type="text/javascript" src="js/angular.min.js"></script>
-  <script>
-    function toggleCharacters() {
-     var body = document.getElementsByTagName('body')[0];
-     body.className = body.className === 'characters-off' ? '' : 'characters-off';
+    * {
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
    }
- </script>
+
+   body {
+     background: #fff;
+     color: #444;
+     font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+   }
+
+   a,
+   a:visited {
+     color: #888;
+     text-decoration: underline;
+   }
+   a:hover,
+   a:focus { color: #000; }
+
+   header {
+     border-bottom: 1px solid #ddd;
+     overflow: hidden;
+     padding: 20px 0;
+     text-align: center;
+   }
+
+   header h1 {
+     color: #333;
+     font-size: 36px;
+     font-weight: bold;
+     text-transform: uppercase;
+   }
+
+   header a {
+     float: right;
+     font-size: 14px;
+   }
+
+   .container {
+     margin: 0 auto;
+     max-width: 1200px;
+     min-width: 960px;
+     padding: 0 40px;
+     width: 90%;
+   }
+
+   .glyph {
+     border-bottom: 1px dotted #ccc;
+     padding: 10px 0 20px;
+     margin-bottom: 20px;
+     float: left;
+     width: 200px;
+     text-align: center;
+   }
+
+   .preview-glyphs { vertical-align: bottom; }
+
+   .preview-scale {
+     color: #888;
+     font-size: 12px;
+     margin-top: 5px;
+   }
+
+   .step {
+     display: inline-block;
+     line-height: 1;
+     position: relative;
+     width: 10%;
+   }
+
+   .step .letters,
+   .step i {
+     -webkit-transition: opacity .3s;
+     -moz-transition: opacity .3s;
+     -ms-transition: opacity .3s;
+     -o-transition: opacity .3s;
+     transition: opacity .3s;
+   }
+   .step:hover .letters { opacity: 1; }
+   .step:hover i { opacity: .3; }
+
+   .letters {
+     opacity: .3;
+     position: absolute;
+   }
+   .characters-off .letters { display: none; }
+   .characters-off .step:hover i { opacity: 1; }
+
+   .size { font-size: 42px; }
+   .usage { margin-top: 10px; }
+   .usage input {
+     font-family: monospace;
+     margin-right: 3px;
+     padding: 2px 5px;
+     text-align: center;
+     font-size: 11px;
+     width: 100%;
+   }
+
+
+   .usage .class { width: 150px; }
+
+   footer {
+     color: #888;
+     font-size: 12px;
+     padding: 20px 0;
+   }
+
+   .search-div{
+    margin-bottom: 50px;
+    padding-top: 30px;
+  }
+  .wrapper{
+    width: 1000px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.2);
+  }
+
+  input.form-control{
+    border-radius: 0px;
+  }
+
+
+</style>
+
+
+<!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script>
+  function toggleCharacters() {
+   var body = document.getElementsByTagName('body')[0];
+   body.className = body.className === 'characters-off' ? '' : 'characters-off';
+ }
+</script>
 </head>
 
 <body class="characters-off">
@@ -738,8 +738,8 @@
 
    $http.get('data.json').
    success(function(data, status, headers, config) {
-     $scope.posts = data;
-   }).
+    $scope.posts = data;
+    }).
    error(function(data, status, headers, config) {
       // log error
     });
