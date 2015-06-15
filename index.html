@@ -665,6 +665,7 @@
    .search-div{
     margin-bottom: 50px;
     padding-top: 30px;
+    text-align: center;
   }
   .wrapper{
     width: 1000px;
@@ -674,6 +675,24 @@
 
   input.form-control{
     border-radius: 0px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+  }
+  input.form-control:focus{
+    border: 1px solid #000;
+    box-shadow: none;
+  }
+  .search-div .how-to-use{
+    font-size: 12px;
+    margin-top: 10px;
+    clear: both;
+    text-decoration: underline;
+  }
+  .search-div .how-to-use:hover{
+    text-decoration: none;
+    cursor: pointer;
   }
 
 
@@ -708,7 +727,10 @@
 
         <div class="row search-div">
           <div class="col-md-4 col-md-offset-4">
-            <input ng-model="sort" class="form-control" placeholder="Search"/>
+            <input ng-model="sort" class="form-control" placeholder="Search Available Icon"/>
+            <div class="how-to-use">
+              <span data-toggle="modal" data-target="#myModal">How to use?</span>
+            </div>
           </div>
         </div>
         
@@ -730,7 +752,37 @@
 
 </div>
 
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">How To Use?</h4>
+      </div>
+      <div class="modal-body">
+        <div class="glyph">
+         <div class="preview-glyphs">
+          <span class="step size"><span class="letters">Pp</span><i class="size icon-addon"></i></span>
+        </div>
+        <div class="usage">
+          <input type="text" value="icon-addon" onclick="this.select();" readonly="readonly" class="class">
+        </div>
+      </div>
+       <br>
+      Just Copy the class eg. icon-addon and add to element that you like to use as icon.
+      <br>
+      <br>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-default" data-dismiss="modal">Done</button>
+    </div>
+  </div>
+</div>
+</div>
 
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <script type="text/javascript">
   var app = angular.module('icon', []);
 
@@ -738,8 +790,8 @@
 
    $http.get('data.json').
    success(function(data, status, headers, config) {
-    $scope.posts = data;
-    }).
+     $scope.posts = data;
+   }).
    error(function(data, status, headers, config) {
       // log error
     });
