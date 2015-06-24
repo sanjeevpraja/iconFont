@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-0.385" y="-0.385" width="64.77" height="64.77"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		<defs>
+			<rect id="SVGID_3_" x="-0.385" y="-0.385" width="64.77" height="64.77"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			<defs>
+				<rect id="SVGID_5_" x="-0.385" y="-0.385" width="64.77" height="64.77"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_6_);">
+				<defs>
+					<rect id="SVGID_7_" x="-0.385" y="-0.385" width="64.77" height="64.77"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M48.395,32.454c-1.257,0-2.277-1.02-2.277-2.277
+					c0-1.259,1.02-2.277,2.277-2.277s2.277,1.019,2.277,2.277C50.672,31.435,49.652,32.454,48.395,32.454z M60.967,35.642
+					c0.106-0.865,0.18-1.779,0.18-2.802c0-8.403-5.618-14.449-13.218-14.449c-7.451,0-11.642,1.123-16.824,7.084
+					c-2.576,2.961-6.897,9.426-10.972,10.863c-2.7,0.952-5.616,0.541-5.632-2.641c-0.013-2.699,1.229-4.58,3.299-5.285
+					c5.442-1.858,4.954-6.896,4.954-6.896s-1.123,0.743-6.307,1.021c-2.656,0.144-3.962,3.889-3.962,3.889s-1.027-3.773-3.505-3.94
+					c-4.494-0.306-6.127-1.417-6.127-1.417s0,5.81,4.189,7.235c2.111,0.718,2.562,2.175,2.721,3.391
+					c0.344,2.605-1.527,7.05,3.457,10.713c4.772,3.507,12.011,3.193,23.758,3.196c12.684,0.002,20.347-0.144,23.047-6.318h-8.244
+					c-3.469,0-6.817-1.349-9.403-3.644h9.403H60.967z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

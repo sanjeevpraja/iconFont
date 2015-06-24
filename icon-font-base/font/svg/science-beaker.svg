@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<defs>
+		<polyline id="SVGID_1_" points="65.955,-6.955 65.955,60.955 -1.955,60.955 -1.955,-6.955 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		<defs>
+			<polyline id="SVGID_3_" points="65.955,-6.955 65.955,60.955 -1.955,60.955 -1.955,-6.955 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			<defs>
+				<polyline id="SVGID_5_" points="65.955,-6.955 65.955,60.955 -1.955,60.955 -1.955,-6.955 				"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_6_);">
+				<defs>
+					<polyline id="SVGID_7_" points="65.955,-6.955 65.955,60.955 -1.955,60.955 -1.955,-6.955 					"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M50.002,14.098l-2.727,4.364v37.061c0,1.955-0.762,2.717-2.717,2.717
+					H32H19.441c-1.955,0-2.717-0.762-2.717-2.717V18.462L14,14.098h-3.199l3.209,5.143v36.282c0,3.453,1.98,5.433,5.432,5.433H32
+					h12.559c3.451,0,5.434-1.979,5.434-5.433V19.24l3.207-5.143H50.002z"/>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M41.17,25.642h-5.434v-2.716h5.434V25.642z M41.17,31.074h-5.434
+					v-2.716h5.434V31.074z M41.17,36.508h-5.434v-2.717h5.434V36.508z M41.17,41.94h-5.434v-2.717h5.434V41.94z M41.17,47.373
+					h-5.434v-2.716h5.434V47.373z M41.17,52.807h-5.434V50.09h5.434V52.807z M19.436,20.209v35.313h25.129V20.209H19.436z"/>
+				<circle style="clip-path:url(#SVGID_8_);fill:#010101;" cx="37.433" cy="12.399" r="4.415"/>
+				<circle style="clip-path:url(#SVGID_8_);fill:#010101;" cx="38.792" cy="4.25" r="1.698"/>
+				<circle style="clip-path:url(#SVGID_8_);fill:#010101;" cx="29.283" cy="11.721" r="1.697"/>
+				<circle style="clip-path:url(#SVGID_8_);fill:#010101;" cx="22.491" cy="13.078" r="3.056"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

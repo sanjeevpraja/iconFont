@@ -1,0 +1,11 @@
+
+[<% @glyphs.each_with_index do |name, value| %>
+{"name" : "icon-<%= name[0] %>"}<%= ',' if value < (@glyphs.size - 1) %><% end %>
+]
+
+
+
+
+
+
+

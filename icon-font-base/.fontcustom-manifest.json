@@ -1,0 +1,446 @@
+{
+  "checksum": {
+    "previous": "d8fc57540e78e2a9f3f8c280aba3f7bc02f4d904410a242fc65af76d1592ea08",
+    "current": "d8fc57540e78e2a9f3f8c280aba3f7bc02f4d904410a242fc65af76d1592ea08"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_d8fc57540e78e2a9f3f8c280aba3f7bc.ttf",
+    "fontcustom/fontcustom_d8fc57540e78e2a9f3f8c280aba3f7bc.svg",
+    "fontcustom/fontcustom_d8fc57540e78e2a9f3f8c280aba3f7bc.woff",
+    "fontcustom/fontcustom_d8fc57540e78e2a9f3f8c280aba3f7bc.eot"
+  ],
+  "glyphs": {
+    "icon-address": {
+      "codepoint": 61700,
+      "source": "test/icon-address.svg"
+    },
+    "icon-alarm": {
+      "codepoint": 61701,
+      "source": "test/icon-alarm.svg"
+    },
+    "icon-alert": {
+      "codepoint": 61702,
+      "source": "test/icon-alert.svg"
+    },
+    "icon-anchor": {
+      "codepoint": 61703,
+      "source": "test/icon-anchor.svg"
+    },
+    "icon-anounce": {
+      "codepoint": 61704,
+      "source": "test/icon-anounce.svg"
+    },
+    "icon-arrow-down": {
+      "codepoint": 61705,
+      "source": "test/icon-arrow-down.svg"
+    },
+    "icon-arrow-left": {
+      "codepoint": 61706,
+      "source": "test/icon-arrow-left.svg"
+    },
+    "icon-arrow-right": {
+      "codepoint": 61707,
+      "source": "test/icon-arrow-right.svg"
+    },
+    "icon-arrow-up": {
+      "codepoint": 61708,
+      "source": "test/icon-arrow-up.svg"
+    },
+    "icon-bell": {
+      "codepoint": 61709,
+      "source": "test/icon-bell.svg"
+    },
+    "icon-briefcase": {
+      "codepoint": 61710,
+      "source": "test/icon-briefcase.svg"
+    },
+    "icon-bulb": {
+      "codepoint": 61711,
+      "source": "test/icon-bulb.svg"
+    },
+    "icon-calculate": {
+      "codepoint": 61712,
+      "source": "test/icon-calculate.svg"
+    },
+    "icon-calendar": {
+      "codepoint": 61713,
+      "source": "test/icon-calendar.svg"
+    },
+    "icon-cart": {
+      "codepoint": 61714,
+      "source": "test/icon-cart.svg"
+    },
+    "icon-chat": {
+      "codepoint": 61715,
+      "source": "test/icon-chat.svg"
+    },
+    "icon-clock": {
+      "codepoint": 61716,
+      "source": "test/icon-clock.svg"
+    },
+    "icon-club": {
+      "codepoint": 61717,
+      "source": "test/icon-club.svg"
+    },
+    "icon-contact": {
+      "codepoint": 61718,
+      "source": "test/icon-contact.svg"
+    },
+    "icon-credit": {
+      "codepoint": 61719,
+      "source": "test/icon-credit.svg"
+    },
+    "icon-cross": {
+      "codepoint": 61720,
+      "source": "test/icon-cross.svg"
+    },
+    "icon-dashboard": {
+      "codepoint": 61721,
+      "source": "test/icon-dashboard.svg"
+    },
+    "icon-data": {
+      "codepoint": 61722,
+      "source": "test/icon-data.svg"
+    },
+    "icon-date": {
+      "codepoint": 61723,
+      "source": "test/icon-date.svg"
+    },
+    "icon-diamond": {
+      "codepoint": 61724,
+      "source": "test/icon-diamond.svg"
+    },
+    "icon-dollar": {
+      "codepoint": 61725,
+      "source": "test/icon-dollar.svg"
+    },
+    "icon-down": {
+      "codepoint": 61726,
+      "source": "test/icon-down.svg"
+    },
+    "icon-euro": {
+      "codepoint": 61727,
+      "source": "test/icon-euro.svg"
+    },
+    "icon-filter": {
+      "codepoint": 61728,
+      "source": "test/icon-filter.svg"
+    },
+    "icon-grid": {
+      "codepoint": 61729,
+      "source": "test/icon-grid.svg"
+    },
+    "icon-hand-dislike": {
+      "codepoint": 61730,
+      "source": "test/icon-hand-dislike.svg"
+    },
+    "icon-hand-down": {
+      "codepoint": 61731,
+      "source": "test/icon-hand-down.svg"
+    },
+    "icon-hand-fist": {
+      "codepoint": 61732,
+      "source": "test/icon-hand-fist.svg"
+    },
+    "icon-hand-left": {
+      "codepoint": 61733,
+      "source": "test/icon-hand-left.svg"
+    },
+    "icon-hand-like": {
+      "codepoint": 61734,
+      "source": "test/icon-hand-like.svg"
+    },
+    "icon-hand-right": {
+      "codepoint": 61735,
+      "source": "test/icon-hand-right.svg"
+    },
+    "icon-hand-rock": {
+      "codepoint": 61736,
+      "source": "test/icon-hand-rock.svg"
+    },
+    "icon-hand-scissor": {
+      "codepoint": 61737,
+      "source": "test/icon-hand-scissor.svg"
+    },
+    "icon-hand-stop": {
+      "codepoint": 61738,
+      "source": "test/icon-hand-stop.svg"
+    },
+    "icon-hand-swipe": {
+      "codepoint": 61739,
+      "source": "test/icon-hand-swipe.svg"
+    },
+    "icon-hand-up": {
+      "codepoint": 61740,
+      "source": "test/icon-hand-up.svg"
+    },
+    "icon-happy": {
+      "codepoint": 61741,
+      "source": "test/icon-happy.svg"
+    },
+    "icon-heart": {
+      "codepoint": 61742,
+      "source": "test/icon-heart.svg"
+    },
+    "icon-help": {
+      "codepoint": 61743,
+      "source": "test/icon-help.svg"
+    },
+    "icon-home": {
+      "codepoint": 61744,
+      "source": "test/icon-home.svg"
+    },
+    "icon-info": {
+      "codepoint": 61745,
+      "source": "test/icon-info.svg"
+    },
+    "icon-key": {
+      "codepoint": 61746,
+      "source": "test/icon-key.svg"
+    },
+    "icon-left": {
+      "codepoint": 61747,
+      "source": "test/icon-left.svg"
+    },
+    "icon-link": {
+      "codepoint": 61748,
+      "source": "test/icon-link.svg"
+    },
+    "icon-list": {
+      "codepoint": 61749,
+      "source": "test/icon-list.svg"
+    },
+    "icon-lock": {
+      "codepoint": 61750,
+      "source": "test/icon-lock.svg"
+    },
+    "icon-logout": {
+      "codepoint": 61751,
+      "source": "test/icon-logout.svg"
+    },
+    "icon-mail": {
+      "codepoint": 61752,
+      "source": "test/icon-mail.svg"
+    },
+    "icon-mail-open": {
+      "codepoint": 61753,
+      "source": "test/icon-mail-open.svg"
+    },
+    "icon-message": {
+      "codepoint": 61754,
+      "source": "test/icon-message.svg"
+    },
+    "icon-minicart": {
+      "codepoint": 61755,
+      "source": "test/icon-minicart.svg"
+    },
+    "icon-minus": {
+      "codepoint": 61756,
+      "source": "test/icon-minus.svg"
+    },
+    "icon-money": {
+      "codepoint": 61757,
+      "source": "test/icon-money.svg"
+    },
+    "icon-order": {
+      "codepoint": 61758,
+      "source": "test/icon-order.svg"
+    },
+    "icon-pencil": {
+      "codepoint": 61759,
+      "source": "test/icon-pencil.svg"
+    },
+    "icon-phone": {
+      "codepoint": 61760,
+      "source": "test/icon-phone.svg"
+    },
+    "icon-phone-tilt": {
+      "codepoint": 61761,
+      "source": "test/icon-phone-tilt.svg"
+    },
+    "icon-pin": {
+      "codepoint": 61762,
+      "source": "test/icon-pin.svg"
+    },
+    "icon-plug": {
+      "codepoint": 61763,
+      "source": "test/icon-plug.svg"
+    },
+    "icon-plus": {
+      "codepoint": 61764,
+      "source": "test/icon-plus.svg"
+    },
+    "icon-pound": {
+      "codepoint": 61765,
+      "source": "test/icon-pound.svg"
+    },
+    "icon-recycle": {
+      "codepoint": 61766,
+      "source": "test/icon-recycle.svg"
+    },
+    "icon-reply": {
+      "codepoint": 61767,
+      "source": "test/icon-reply.svg"
+    },
+    "icon-replyall": {
+      "codepoint": 61768,
+      "source": "test/icon-replyall.svg"
+    },
+    "icon-right": {
+      "codepoint": 61769,
+      "source": "test/icon-right.svg"
+    },
+    "icon-sad": {
+      "codepoint": 61770,
+      "source": "test/icon-sad.svg"
+    },
+    "icon-schedule": {
+      "codepoint": 61771,
+      "source": "test/icon-schedule.svg"
+    },
+    "icon-scissor": {
+      "codepoint": 61772,
+      "source": "test/icon-scissor.svg"
+    },
+    "icon-search": {
+      "codepoint": 61773,
+      "source": "test/icon-search.svg"
+    },
+    "icon-setting": {
+      "codepoint": 61774,
+      "source": "test/icon-setting.svg"
+    },
+    "icon-shop": {
+      "codepoint": 61775,
+      "source": "test/icon-shop.svg"
+    },
+    "icon-shopbag": {
+      "codepoint": 61776,
+      "source": "test/icon-shopbag.svg"
+    },
+    "icon-spade": {
+      "codepoint": 61777,
+      "source": "test/icon-spade.svg"
+    },
+    "icon-star": {
+      "codepoint": 61778,
+      "source": "test/icon-star.svg"
+    },
+    "icon-star-empty": {
+      "codepoint": 61779,
+      "source": "test/icon-star-empty.svg"
+    },
+    "icon-star-half": {
+      "codepoint": 61780,
+      "source": "test/icon-star-half.svg"
+    },
+    "icon-support": {
+      "codepoint": 61781,
+      "source": "test/icon-support.svg"
+    },
+    "icon-sync": {
+      "codepoint": 61782,
+      "source": "test/icon-sync.svg"
+    },
+    "icon-tag": {
+      "codepoint": 61783,
+      "source": "test/icon-tag.svg"
+    },
+    "icon-telephone": {
+      "codepoint": 61784,
+      "source": "test/icon-telephone.svg"
+    },
+    "icon-tick": {
+      "codepoint": 61785,
+      "source": "test/icon-tick.svg"
+    },
+    "icon-transfer": {
+      "codepoint": 61786,
+      "source": "test/icon-transfer.svg"
+    },
+    "icon-transfer2": {
+      "codepoint": 61787,
+      "source": "test/icon-transfer2.svg"
+    },
+    "icon-trash": {
+      "codepoint": 61788,
+      "source": "test/icon-trash.svg"
+    },
+    "icon-triangle-down": {
+      "codepoint": 61789,
+      "source": "test/icon-triangle-down.svg"
+    },
+    "icon-triangle-left": {
+      "codepoint": 61790,
+      "source": "test/icon-triangle-left.svg"
+    },
+    "icon-triangle-right": {
+      "codepoint": 61791,
+      "source": "test/icon-triangle-right.svg"
+    },
+    "icon-triangle-up": {
+      "codepoint": 61792,
+      "source": "test/icon-triangle-up.svg"
+    },
+    "icon-up": {
+      "codepoint": 61793,
+      "source": "test/icon-up.svg"
+    },
+    "icon-user": {
+      "codepoint": 61794,
+      "source": "test/icon-user.svg"
+    },
+    "icon-weight": {
+      "codepoint": 61795,
+      "source": "test/icon-weight.svg"
+    },
+    "icon-wrench": {
+      "codepoint": 61796,
+      "source": "test/icon-wrench.svg"
+    },
+    "icon-wrench-tilt": {
+      "codepoint": 61797,
+      "source": "test/icon-wrench-tilt.svg"
+    },
+    "icon-zoomin": {
+      "codepoint": 61798,
+      "source": "test/icon-zoomin.svg"
+    },
+    "icon-zoomout": {
+      "codepoint": 61799,
+      "source": "test/icon-zoomout.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "test/",
+      "vectors": "test/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

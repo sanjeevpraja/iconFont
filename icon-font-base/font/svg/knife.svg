@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<defs>
+		
+			<rect id="SVGID_1_" x="-11.554" y="-5.971" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 74.9101 38.9245)" width="81.896" height="81.896"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		<defs>
+			
+				<rect id="SVGID_3_" x="-11.554" y="-5.971" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 74.9101 38.9245)" width="81.896" height="81.896"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			<defs>
+				
+					<rect id="SVGID_5_" x="-11.554" y="-5.971" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 74.9101 38.9245)" width="81.896" height="81.896"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_6_);">
+				<defs>
+					
+						<rect id="SVGID_7_" x="-11.554" y="-5.971" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 74.9101 38.9245)" width="81.896" height="81.896"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M35.763,36.367c0.928-0.928,1.854-1.506,2.723-1.796
+					C24.588,20.673,8.084,4.169,8.084,4.169c-3.301,2.605,3.821,27.217,22.006,41.23l4.401-4.633
+					C33.623,39.667,34.142,37.988,35.763,36.367z"/>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M42.365,42.852c-0.405,0.406-0.983,0.406-1.39,0
+					c-0.404-0.405-0.404-0.984,0.001-1.39c0.405-0.405,0.985-0.405,1.389,0C42.713,41.809,42.712,42.505,42.365,42.852z
+					 M53.832,56.055c-0.406,0.405-0.985,0.405-1.391,0c-0.405-0.406-0.405-0.985,0-1.391c0.406-0.406,0.985-0.406,1.391,0
+					C54.237,55.07,54.237,55.649,53.832,56.055z M36.4,37.003c-1.332,1.332-1.795,2.606-1.157,3.358
+					c15.055,18.646,15.171,18.763,15.229,18.821c1.796,1.795,4.691,1.91,6.603,0.231l0.116-0.116l0.059-0.059l0.058-0.057
+					l0.116-0.116c1.678-1.911,1.562-4.806-0.231-6.601L40.397,35.671C39.528,34.688,37.79,35.613,36.4,37.003z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

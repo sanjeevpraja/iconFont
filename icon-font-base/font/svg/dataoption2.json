@@ -1,0 +1,4 @@
+/*[<% @glyphs.each do |name, value| %>
+{"name" : "icon-<%= name %>"},
+<% end %>
+]*/

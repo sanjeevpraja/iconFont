@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="4.372" y="4.072" width="55.256" height="55.855"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		<defs>
+			<rect id="SVGID_3_" x="4.372" y="4.072" width="55.256" height="55.855"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			<defs>
+				<rect id="SVGID_5_" x="4.372" y="4.072" width="55.256" height="55.855"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_6_);">
+				<defs>
+					<rect id="SVGID_7_" x="4.372" y="4.072" width="55.256" height="55.855"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M32.001,8.684C19.281,8.684,8.935,19.144,8.935,32
+					s10.347,23.316,23.066,23.316c12.718,0,23.065-10.46,23.065-23.316S44.719,8.684,32.001,8.684z M32.001,59.788
+					C16.842,59.788,4.51,47.323,4.51,32S16.842,4.212,32.001,4.212C47.158,4.212,59.49,16.677,59.49,32S47.158,59.788,32.001,59.788
+					z"/>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M30.295,33.722c-0.733-0.741-0.886-1.839-0.476-2.74l-1.758-1.777
+					l-9.256,16.134l15.961-9.355l-1.761-1.778C32.116,34.619,31.03,34.465,30.295,33.722z"/>
+				<path style="clip-path:url(#SVGID_8_);fill:#010101;" d="M33.705,30.278c0.733,0.741,0.886,1.839,0.476,2.739l1.759,1.779
+					l9.255-16.135l-15.96,9.357l1.759,1.776C31.883,29.381,32.97,29.535,33.705,30.278z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
