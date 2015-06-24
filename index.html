@@ -155,6 +155,33 @@ input.form-control:focus{
 .modal-body{
   font-size: 12px;
 }
+
+
+.animate-repeat {
+}
+
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter,
+.animate-repeat.ng-leave {
+     -webkit-transition: .5s linear all;
+    -moz-transition: .5s linear all;
+    -ms-transition: .5s linear all;
+    -o-transition: .5s linear all;
+    transition: .5s linear all;
+}
+
+.animate-repeat.ng-leave.ng-leave-active,
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter {
+  opacity:0; 
+}
+
+.animate-repeat.ng-leave,
+.animate-repeat.ng-move.ng-move-active,
+.animate-repeat.ng-enter.ng-enter-active {
+  opacity:1;  
+}
+
 </style>
 
 
@@ -162,6 +189,7 @@ input.form-control:focus{
 
 
 <script type="text/javascript" src="js/angular.min.js"></script>
+<script src="js/angular-animate.min.js"></script>
 <script>
   function toggleCharacters() {
    var body = document.getElementsByTagName('body')[0];
@@ -194,7 +222,7 @@ input.form-control:focus{
         </div>
         
         <div class="wrapper">
-         <div ng-repeat="post in posts | filter : sort | orderBy : 'name'">
+         <div class="animate-repeat" ng-repeat="post in posts | filter : sort | orderBy : 'name'">
            <div class="glyph">
              <div class="preview-glyphs">
               <span class="step size"><span class="letters">Pp</span><i class="size {{post.name}}"></i></span>
@@ -245,7 +273,7 @@ input.form-control:focus{
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script type="text/javascript">
-  var app = angular.module('icon', []);
+  var app = angular.module('icon', ['ngAnimate']);
 
   app.controller('IconController', function($scope, $http){
 
